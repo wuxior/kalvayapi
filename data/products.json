@@ -112,6 +112,20 @@
         "Kapı Kolu",
         "Emniyet Kilidi"
       ]
+    },
+    {
+      "id": "konteyner",
+      "name": "Konteyner",
+      "icon": "container",
+      "description": "Prefabrik konteyner ev ve yapı çözümleri.",
+      "subcategories": []
+    },
+    {
+      "id": "komurluk-kapisi",
+      "name": "Kömürlük Kapısı",
+      "icon": "door-open",
+      "description": "Dekoratif ferforje kömürlük ve bodrum kapıları.",
+      "subcategories": []
     }
   ],
   "products": [
@@ -278,6 +292,33 @@
       "description": "Birinci kalite seramikten üretilmiş tam takım klozet ve rezervuar seti.",
       "oldPrice": 8500,
       "price": 6200
+    },
+    {
+      "id": 25,
+      "name": "Prefabrik Konteyner Ev - Taş Desenli Verandalı",
+      "category": "konteyner",
+      "image": "assets/images/products/konteyner/konteyner1.webp",
+      "description": "Taş desen kaplama, verandalı ve merdiveli prefabrik konteyner ev. Su deposu dahil, kullanıma hazır.",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 26,
+      "name": "Prefabrik Konteyner Ev - Ahşap Kompozit Cepheli",
+      "category": "konteyner",
+      "image": "assets/images/products/konteyner/konteyner2.webp",
+      "description": "Ahşap kompozit ve antrasit gri cephe kaplamalı modern prefabrik konteyner. Geniş cam kapılı, ferah iç mekan.",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 27,
+      "name": "Kömürlük Kapısı - Ferforje Altın Desenli",
+      "category": "komurluk-kapisi",
+      "image": "assets/images/products/komurluk-kapisi/komurluk-kapisi-1.jpg",
+      "description": "Dekoratif ferforje işlemeli, altın detaylı kömürlük ve bodrum giriş kapısı. Sağlam çelik konstrüksiyon.",
+      "isNew": true,
+      "isFeatured": true
     }
   ]
 }
