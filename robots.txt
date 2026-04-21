@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /src/js/
+Disallow: /node_modules/
+Disallow: /scripts/
+
+Sitemap: https://kalvayapi.com/sitemap.xml

@@ -1,0 +1,283 @@
+{
+  "categories": [
+    {
+      "id": "panel-kapi",
+      "name": "Panel Kapı",
+      "icon": "door-open",
+      "description": "Amerikan panel kapı modelleri, iç oda kapıları.",
+      "subcategories": [
+        "Amerikan Panel Kapı",
+        "Camlı Panel Kapı"
+      ]
+    },
+    {
+      "id": "lake-kapi",
+      "name": "Lake Kapı",
+      "icon": "door-closed",
+      "description": "Lake boyalı modern iç mekan kapıları.",
+      "subcategories": [
+        "Düz Lake Kapı",
+        "Camlı Lake Kapı"
+      ]
+    },
+    {
+      "id": "melamin-kapi",
+      "name": "Melamin Kapı",
+      "icon": "door-closed",
+      "description": "Dayanıklı ve şık melamin oda kapıları.",
+      "subcategories": [
+        "Melamin Panel",
+        "Camlı Melamin"
+      ]
+    },
+    {
+      "id": "celik-kapi",
+      "name": "Çelik Kapı",
+      "icon": "shield",
+      "description": "Güvenli ve şık çelik kapı modelleri.",
+      "subcategories": [
+        "Klasik Çelik Kapı",
+        "Lüks Çelik Kapı",
+        "Dış Mekan"
+      ]
+    },
+    {
+      "id": "mutfak-dolabi",
+      "name": "Mutfak Dolabı",
+      "icon": "chef-hat",
+      "description": "Modern mutfak dolabı modelleri.",
+      "subcategories": [
+        "Hazır Mutfak",
+        "Mutfak Tezgahı"
+      ]
+    },
+    {
+      "id": "banyo-dolabi",
+      "name": "Banyo Dolabı",
+      "icon": "bath",
+      "description": "Banyo dolabı seti ve aynalı modeller.",
+      "subcategories": [
+        "Banyo Seti",
+        "Aynalı Dolap"
+      ]
+    },
+    {
+      "id": "dusakabin",
+      "name": "Duşakabin",
+      "icon": "shower-head",
+      "description": "Temperli camlı modern duşakabin çözümleri.",
+      "subcategories": [
+        "Kare Duşakabin",
+        "Oval Duşakabin"
+      ]
+    },
+    {
+      "id": "pimapen",
+      "name": "Pimapen",
+      "icon": "window",
+      "description": "PVC kapı ve pencere sistemleri.",
+      "subcategories": [
+        "PVC Pencere",
+        "PVC Kapı"
+      ]
+    },
+    {
+      "id": "klozet-takimi",
+      "name": "Klozet Takımı",
+      "icon": "toilet",
+      "description": "Modern klozet ve rezervuar takımları.",
+      "subcategories": [
+        "Gömme Rezervuar",
+        "Klozet Seti"
+      ]
+    },
+    {
+      "id": "musluk-batarya",
+      "name": "Musluk & Batarya",
+      "icon": "pipette",
+      "image": "https://www.isaogluyapi.com/idea/pc/51/myassets/products/742/1-org-zoom.jpg?revision=1727450974",
+      "description": "Şık musluk ve batarya modelleri.",
+      "subcategories": [
+        "Banyo Bataryası",
+        "Mutfak Bataryası"
+      ]
+    },
+    {
+      "id": "kilit-kol",
+      "name": "Kilit & Kol",
+      "icon": "key",
+      "image": "https://image.made-in-china.com/202f0j00cCslnotIAGYm/Modern-High-Grade-Gray-Zinc-Alloy-Handle-Silent-Mortise-Inner-Door-Lever-Lock-Set.webp",
+      "description": "Kapı kolları ve emniyetli kilit sistemleri.",
+      "subcategories": [
+        "Kapı Kolu",
+        "Emniyet Kilidi"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Panel Kapı - Anatolia",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20-%20Anatolia.png",
+      "description": "Birinci sınıf Amerikan panel kapı, uzun ömürlü kullanım.",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 2,
+      "name": "Panel Kapı - Anatolia Camlı",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20-%20Anatolia%20Caml%C4%B1.png",
+      "description": "Camlı şık tasarım Amerikan panel oda kapısı."
+    },
+    {
+      "id": 3,
+      "name": "Panel Kapı - Bolu",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20_Bolu.png",
+      "description": "Klasik ve dayanıklı Bolu modeli ahşap görünümlü panel kapı."
+    },
+    {
+      "id": 4,
+      "name": "Panel Kapı - Bolu Camlı",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20_%20Bolu%20Caml%C4%B1.png",
+      "description": "Cam detaylı zarif Bolu modeli oda kapısı."
+    },
+    {
+      "id": 5,
+      "name": "Panel Kapı - Efes",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1_Efes.png",
+      "description": "Sağlam ve uzun yıllar kullanılabilir Efes modeli panel kapı."
+    },
+    {
+      "id": 6,
+      "name": "Panel Kapı - Efes Camlı",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1_Efes%20Caml%C4%B1.png",
+      "description": "Özel tasarım camlı Efes modeli kapı."
+    },
+    {
+      "id": 7,
+      "name": "Panel Kapı - Hitit",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20_Hitit.png",
+      "description": "Geleneksel çizgiler taşıyan Hitit modeli Amerikan kapı."
+    },
+    {
+      "id": 8,
+      "name": "Panel Kapı - Hitit Camlı",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20Hitit%20Caml%C4%B1.png",
+      "description": "Camlı ve şık Hitit modeli iç oda kapısı."
+    },
+    {
+      "id": 9,
+      "name": "Panel Kapı - Ilgaz",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20_%20Ilgaz.png",
+      "description": "Modern tasarımlı Ilgaz modeli oda kapısı."
+    },
+    {
+      "id": 10,
+      "name": "Panel Kapı - Milano",
+      "category": "panel-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20_%20Milano.png",
+      "description": "Zarif ve estetik Milano modeli panel kapı."
+    },
+    {
+      "id": 11,
+      "name": "Lake Kapı - Çapraz Çizgi",
+      "category": "lake-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/LAKE%20KAPI/Ankara%20Lake%20Kap%C4%B1_%C3%87arpraz%20%C3%87izgili.png",
+      "description": "Modern CNC kesim beyaz lake oda kapısı.",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 12,
+      "name": "Lake Kapı - Kare Çizgi",
+      "category": "lake-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/LAKE%20KAPI/Ankara%20Lake%20Kap%C4%B1%20Kare%20%C3%87izgili.png",
+      "description": "Kare desenli şık lake kapı."
+    },
+    {
+      "id": 13,
+      "name": "Lake Kapı - Boy Camlı",
+      "category": "lake-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/LAKE%20KAPI/Ankara%20Lake%20Kap%C4%B1_%20Boy%20Caml%C4%B1.png",
+      "description": "Lüks boy camlı lake iç kapı."
+    },
+    {
+      "id": 14,
+      "name": "Ado Melamin Kapı - 3 Göbek",
+      "category": "melamin-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/MELAM%C4%B0N%20KAPI/Ado%20Melamin%20Kap%C4%B1%203%20G%C3%B6bek.png",
+      "description": "Çizilmelere karşı ekstra dayanıklı Ado melamin kapı."
+    },
+    {
+      "id": 15,
+      "name": "Ado Melamin Kapı - Tek Göbek",
+      "category": "melamin-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/MELAM%C4%B0N%20KAPI/Ado%20Melamin%20Kap%C4%B1%20Tek%20G%C3%B6bek.png",
+      "description": "Sade ve minimalist tasarımlı melamin panel kapı."
+    },
+    {
+      "id": 16,
+      "name": "Çelik Kapı - Lotus",
+      "category": "celik-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/CEL%C4%B0K%20KAPI/elik%20Kap%C4%B1%20Ankara%203.png",
+      "description": "Üst düzey güvenlik sağlayan Lotus modeli çelik kapı.",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 17,
+      "name": "Çelik Kapı - Royal",
+      "category": "celik-kapi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/CEL%C4%B0K%20KAPI/elik%20Kap%C4%B1%20Ankara%206.png",
+      "description": "Premium Royal seri dış cephe çelik kapı."
+    },
+    {
+      "id": 18,
+      "name": "Mutfak Dolabı 2 Metre",
+      "category": "mutfak-dolabi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/MUTFAK%20DOLABI/Mutfak%20Dolab%C4%B1%20Ankara%201%2C5%20Metre.jpg",
+      "description": "Kullanıma hazır, pratik ve şık 2 metre mutfak dolabı.",
+      "isNew": true,
+      "isFeatured": true
+    },
+    {
+      "id": 19,
+      "name": "Banyo Dolabı Sandy 80cm",
+      "category": "banyo-dolabi",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/BANYO%20DOLABI/Ankara%20Banyo%20Dolab%C4%B1%20Sandy%2080cm.png",
+      "description": "Modern tasarıma sahip 80cm genişliğinde Sandy banyo dolabı."
+    },
+    {
+      "id": 20,
+      "name": "Duşakabin Kare Siyah",
+      "category": "dusakabin",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/DU%C5%9EAKAB%C4%B0N/Du%C5%9Fakabin%20Kare%20Ankara%205.png",
+      "description": "Temperli siyah cam kare lüks duşakabin."
+    },
+    {
+      "id": 21,
+      "name": "Pimapen Pencere 100x100",
+      "category": "pimapen",
+      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/P%C4%B0MAPEN/Ankara%20Pimapen%20%C3%87ift%20A%C3%A7%C4%B1l%C4%B1m%2C.png",
+      "description": "Isı yalıtımlı PVC çift açılım pencere sistemi."
+    },
+    {
+      "id": 24,
+      "name": "Klozet Takımı - Beyaz",
+      "category": "klozet-takimi",
+      "image": "products/klozet-takimi/klozet-takimi-beyaz.png",
+      "description": "Birinci kalite seramikten üretilmiş tam takım klozet ve rezervuar seti.",
+      "oldPrice": 8500,
+      "price": 6200
+    }
+  ]
+}
