@@ -126,6 +126,13 @@
       "icon": "door-open",
       "description": "Dekoratif ferforje kömürlük ve bodrum kapıları.",
       "subcategories": []
+    },
+    {
+      "id": "yangin-kapisi",
+      "name": "Yangın Kapısı",
+      "icon": "flame",
+      "description": "Sertifikalı yangına dayanıklı çelik yangın kapıları.",
+      "subcategories": []
     }
   ],
   "products": [
@@ -167,13 +174,6 @@
       "description": "Sağlam ve uzun yıllar kullanılabilir Efes modeli panel kapı."
     },
     {
-      "id": 6,
-      "name": "Panel Kapı - Efes Camlı",
-      "category": "panel-kapi",
-      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1_Efes%20Caml%C4%B1.png",
-      "description": "Özel tasarım camlı Efes modeli kapı."
-    },
-    {
       "id": 7,
       "name": "Panel Kapı - Hitit",
       "category": "panel-kapi",
@@ -186,13 +186,6 @@
       "category": "panel-kapi",
       "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20Hitit%20Caml%C4%B1.png",
       "description": "Camlı ve şık Hitit modeli iç oda kapısı."
-    },
-    {
-      "id": 9,
-      "name": "Panel Kapı - Ilgaz",
-      "category": "panel-kapi",
-      "image": "https://amerikan-panel-kapi.com.tr/image/catalog/PANEL%20KAPI/Ankara%20Amerikan%20Panel%20Kap%C4%B1%20_%20Ilgaz.png",
-      "description": "Modern tasarımlı Ilgaz modeli oda kapısı."
     },
     {
       "id": 10,
@@ -319,6 +312,230 @@
       "description": "Dekoratif ferforje işlemeli, altın detaylı kömürlük ve bodrum giriş kapısı. Sağlam çelik konstrüksiyon.",
       "isNew": true,
       "isFeatured": true
+    },
+    {
+      "id": 28,
+      "name": "Banyo Dolabı - Aynalı Mermer Desenli",
+      "category": "banyo-dolabi",
+      "image": "assets/images/products/banyo-dolabi/banyo-dolabi-aynali-mermer.jpg",
+      "description": "Mermer ve ahşap detaylı aynalı banyo dolabı seti. Seramik lavabo dahil.",
+      "isNew": true
+    },
+    {
+      "id": 29,
+      "name": "Banyo Dolabı - Aynalı Siyah Mermer",
+      "category": "banyo-dolabi",
+      "image": "assets/images/products/banyo-dolabi/banyo-dolabi-aynali-siyah.jpg",
+      "description": "Siyah mermer detaylı modern aynalı banyo dolabı. Geniş ayna ve seramik lavabo.",
+      "isNew": true
+    },
+    {
+      "id": 30,
+      "name": "Mutfak Dolabı - Klasik Beyaz",
+      "category": "mutfak-dolabi",
+      "image": "assets/images/products/mutfak-dolabi/mutfak-dolabi-klasik-beyaz.jpg",
+      "description": "Klasik profilli beyaz mutfak dolabı seti. Alt ve üst dolaplar dahil, mermer tezgahlı.",
+      "isNew": true
+    },
+    {
+      "id": 31,
+      "name": "Mutfak Dolabı - Modern Ahşap",
+      "category": "mutfak-dolabi",
+      "image": "assets/images/products/mutfak-dolabi/mutfak-dolabi-modern-ahsap.jpg",
+      "description": "Ahşap alt dolap ve beyaz üst dolaplı modern mutfak dolabı seti. Davlumbaz bölmeli.",
+      "isNew": true
+    },
+    {
+      "id": 32,
+      "name": "Banyo Dolabı Seti - Boy Dolaplı",
+      "category": "banyo-dolabi",
+      "image": "assets/images/products/banyo-dolabi/banyo-dolabi-boy-dolapli.jpg",
+      "description": "Aynalı üst dolap, seramik lavabo ve boy dolabından oluşan komple banyo seti.",
+      "isNew": true
+    },
+    {
+      "id": 33,
+      "name": "Banyo Dolabı - Aynalı Minimal Beyaz",
+      "category": "banyo-dolabi",
+      "image": "assets/images/products/banyo-dolabi/banyo-dolabi-aynali-minimal.jpg",
+      "description": "Minimalist tasarımlı aynalı beyaz banyo dolabı. Dikdörtgen seramik lavabo dahil.",
+      "isNew": true
+    },
+    {
+      "id": 34,
+      "name": "Kömürlük Kapısı - Siyah Altın Desenli",
+      "category": "komurluk-kapisi",
+      "image": "assets/images/products/komurluk-kapisi/komurluk-kapisi-siyah-altin.jpg",
+      "description": "Ferforje işlemeli siyah gövde üzerine altın detaylı kömürlük kapısı. Dayanıklı çelik konstrüksiyon.",
+      "isNew": true
+    },
+    {
+      "id": 35,
+      "name": "Yangın Kapısı - Tek Kanatlı",
+      "category": "yangin-kapisi",
+      "image": "assets/images/products/yangin-kapisi/yangin-kapisi-tek-kanat.jpg",
+      "description": "Yangına dayanıklı çelik tek kanatlı yangın kapısı. Panik barlı, sertifikalı.",
+      "isNew": true
+    },
+    {
+      "id": 36,
+      "name": "Yangın Kapısı - Çift Kanatlı",
+      "category": "yangin-kapisi",
+      "image": "assets/images/products/yangin-kapisi/yangin-kapisi-cift-kanat.jpg",
+      "description": "Çift kanatlı sertifikalı yangın kapısı. Bina giriş ve kat arası kullanıma uygun.",
+      "isNew": true
+    },
+    {
+      "id": 37,
+      "name": "Pimapen Pencere - Antrasit Çift Açılım",
+      "category": "pimapen",
+      "image": "assets/images/products/pimapen/pimapen-antrasit-pencere.jpg",
+      "description": "Antrasit gri profilli ısı yalıtımlı çift açılımlı PVC pencere sistemi.",
+      "isNew": true
+    },
+    {
+      "id": 38,
+      "name": "Pimapen Pencere - Beyaz Çeşitli",
+      "category": "pimapen",
+      "image": "assets/images/products/pimapen/pimapen-pencere-cesitleri.jpg",
+      "description": "Farklı ebat ve modellerde beyaz PVC pencere koleksiyonu. Vasistas ve çift açılım seçenekli.",
+      "isNew": true
+    },
+    {
+      "id": 39,
+      "name": "Pimapen Pencere - Thermoplast",
+      "category": "pimapen",
+      "image": "assets/images/products/pimapen/pimapen-pencere-thermoplast.jpg",
+      "description": "Thermoplast marka ısı ve ses yalıtımlı PVC pencere. Vasistas ve çift açılımlı.",
+      "isNew": true
+    },
+    {
+      "id": 40,
+      "name": "Duşakabin Kare - Siyah Buzlu Cam",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-kare-siyah-buzlu.jpg",
+      "description": "Siyah profilli buzlu temperli cam kare duşakabin. Endüstriyel cam bölmeli tasarım.",
+      "isNew": true
+    },
+    {
+      "id": 41,
+      "name": "Duşakabin Kare - Siyah Şeffaf Cam",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-kare-siyah-seffaf.jpg",
+      "description": "Siyah profilli şeffaf temperli cam kare duşakabin. Sürgülü kapı sistemi.",
+      "isNew": true
+    },
+    {
+      "id": 42,
+      "name": "Duşakabin Kare - Siyah Temperli",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-kare-siyah-temperli.jpg",
+      "description": "Siyah profilli köşe montaj kare duşakabin. 6mm temperli güvenlik camı.",
+      "isNew": true
+    },
+    {
+      "id": 43,
+      "name": "Duşakabin Dikdörtgen - Buzlu Krom",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-dikdortgen-buzlu-krom.jpg",
+      "description": "Krom profilli buzlu cam dikdörtgen duşakabin. Çizgili desen, şık görünüm.",
+      "isNew": true
+    },
+    {
+      "id": 44,
+      "name": "Duşakabin Dikdörtgen - Siyah Karo Desenli",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-dikdortgen-siyah-karomezeli.jpg",
+      "description": "Siyah profilli karo cam desenli dikdörtgen duşakabin. Modern banyo uyumlu.",
+      "isNew": true
+    },
+    {
+      "id": 45,
+      "name": "Pimapen Kapı - Camlı Beyaz",
+      "category": "pimapen",
+      "image": "assets/images/products/pimapen/pimapen-kapi-camli-beyaz.jpg",
+      "description": "Üst bölmesi buzlu camlı beyaz PVC kapı. Balkon ve dış mekan kullanımına uygun.",
+      "isNew": true
+    },
+    {
+      "id": 46,
+      "name": "Duşakabin Boy - Siyah Kare Desenli",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-boy-siyah-kare.jpg",
+      "description": "Boy aynalı siyah profilli kare cam desenli duşakabin. Sürgülü kapı mekanizması.",
+      "isNew": true
+    },
+    {
+      "id": 47,
+      "name": "Duşakabin Dikdörtgen - Siyah Buzlu Cam",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-dikdortgen-siyah-buzlu.jpg",
+      "description": "Siyah profilli buzlu temperli cam dikdörtgen duşakabin. Geniş iç mekan, sürgülü kapı.",
+      "isNew": true
+    },
+    {
+      "id": 48,
+      "name": "Duşakabin Oval - Siyah Şeffaf",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-oval-siyah-seffaf.jpg",
+      "description": "Siyah profilli oval formlu şeffaf cam duşakabin. Kompakt banyolara uygun.",
+      "isNew": true
+    },
+    {
+      "id": 49,
+      "name": "Duşakabin Dikdörtgen - Krom Çizgili",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-dikdortgen-krom-cizgili.jpg",
+      "description": "Krom profilli çizgi desenli dikdörtgen duşakabin. Klasik banyo dekorasyonu ile uyumlu.",
+      "isNew": true
+    },
+    {
+      "id": 50,
+      "name": "Duşakabin Boy - Siyah Cam Bölmeli",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-boy-siyah-cam.jpg",
+      "description": "Siyah profilli boy temperli cam duşakabin. Üst sabit panel, alt sürgülü kapı.",
+      "isNew": true
+    },
+    {
+      "id": 51,
+      "name": "Duşakabin Kare - Siyah Minimal",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-kare-siyah-minimal.jpg",
+      "description": "Minimal tasarımlı siyah profilli kare duşakabin. 6mm temperli güvenlik camı.",
+      "isNew": true
+    },
+    {
+      "id": 52,
+      "name": "Duşakabin Oval - Krom Şeffaf",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-oval-krom-seffaf.jpg",
+      "description": "Krom profilli oval formlu şeffaf cam duşakabin. Köşe montaj, kompakt tasarım.",
+      "isNew": true
+    },
+    {
+      "id": 53,
+      "name": "Duşakabin Kare - Siyah Duvara Monte",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-kare-siyah-duvar.jpg",
+      "description": "Duvara monte siyah profilli kare cam duşakabin. Sürgülü kapı sistemi.",
+      "isNew": true
+    },
+    {
+      "id": 54,
+      "name": "Duşakabin Oval - Siyah Buzlu",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-oval-siyah-buzlu.jpg",
+      "description": "Siyah profilli buzlu cam oval duşakabin. Mahremiyet sağlayan buzlu cam.",
+      "isNew": true
+    },
+    {
+      "id": 55,
+      "name": "Duşakabin Dikdörtgen - Siyah Geniş",
+      "category": "dusakabin",
+      "image": "assets/images/products/dusakabin/dusakabin-dikdortgen-siyah-genis.jpg",
+      "description": "Geniş profilli siyah dikdörtgen duşakabin. Çift sürgülü kapı, geniş giriş.",
+      "isNew": true
     }
   ]
 }
